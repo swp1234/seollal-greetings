@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "Generador de Saludos de Año Nuevo Lunar - 2026 Año del Caballo | DopaBrain",
+    "loading": "Cargando...",
+    "skipLink": "Ir al contenido"
+  },
+  "meta": {
+    "title": "Generador de Saludos de Año Nuevo Lunar - 2026 Año del Caballo | DopaBrain",
+    "description": "¡Crea el saludo perfecto de Año Nuevo Lunar! Genera bendiciones personalizadas para padres, abuelos, jefe, amigos y más.",
+    "og_title": "Generador de Saludos - 2026 Año del Caballo",
+    "og_description": "¡Crea saludos personalizados de Año Nuevo Lunar!",
+    "twitter_title": "Generador de Saludos de Año Nuevo 2026",
+    "twitter_description": "¡Crea saludos personalizados de Año Nuevo!"
+  },
+  "intro": {
+    "title": "Generador de\nSaludos",
+    "subtitle": "¡Saludos perfectos en un toque!",
+    "description": "Elige el destinatario y el tono,\ny obtén saludos personalizados",
+    "badge1": "🎊 Personalizado",
+    "badge2": "📋 Copia al instante",
+    "badge3": "🐴 2026 Año del Caballo"
+  },
+  "button": {
+    "start": "Crear Saludo",
+    "copy": "Copiar",
+    "share": "Compartir",
+    "regenerate": "🔄 Ver otros saludos",
+    "newGreeting": "✨ Empezar de nuevo"
+  },
+  "recipient": {
+    "title": "¿Para quién es?",
+    "parents": "Padres",
+    "grandparents": "Abuelos",
+    "boss": "Jefe / Superior",
+    "colleague": "Compañeros",
+    "friend": "Amigos",
+    "partner": "Pareja",
+    "sns": "Redes Sociales"
+  },
+  "tone": {
+    "title": "¿Qué estilo?",
+    "description": "Elige el tono del saludo",
+    "formal": "Formal",
+    "formalHint": "Educado y respetuoso",
+    "casual": "Informal",
+    "casualHint": "Amigable y relajado",
+    "funny": "Divertido",
+    "funnyHint": "Humorístico y alegre"
+  },
+  "result": {
+    "title": "¡Tus saludos están listos!"
+  },
+  "greeting": {
+    "copied": "Copiado",
+    "copiedToast": "¡Saludo copiado al portapapeles!",
+    "copyFailed": "Error al copiar",
+    "regenerate": "Otro saludo"
+  },
+  "share": {
+    "title": "Saludo de Año Nuevo"
+  },
+  "history": {
+    "title": "📋 Saludos copiados",
+    "clear": "Borrar historial"
+  },
+  "footer": {
+    "portal": "DopaBrain"
+  }
+}

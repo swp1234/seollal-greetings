@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#be185d"/>
+      <stop offset="100%" stop-color="#9f1239"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <!-- Background circle -->
+  <circle cx="96" cy="96" r="90" fill="url(#bg)"/>
+  <!-- Bokjumeoni (fortune pouch) body -->
+  <ellipse cx="96" cy="115" rx="42" ry="38" fill="#dc2626" opacity="0.9"/>
+  <!-- Pouch top gather -->
+  <path d="M60 95 Q75 80 96 82 Q117 80 132 95" fill="#dc2626" stroke="#fbbf24" stroke-width="2"/>
+  <!-- Gold string -->
+  <path d="M80 85 Q88 70 96 72 Q104 70 112 85" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+  <!-- Tassel left -->
+  <line x1="80" y1="85" x2="72" y2="60" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="72" cy="57" r="4" fill="#fbbf24"/>
+  <!-- Tassel right -->
+  <line x1="112" y1="85" x2="120" y2="60" stroke="#fbbf24" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="120" cy="57" r="4" fill="#fbbf24"/>
+  <!-- Fu character (福) simplified -->
+  <text x="96" y="125" text-anchor="middle" font-size="30" font-weight="bold" fill="#fbbf24" font-family="serif">福</text>
+  <!-- Decorative dots -->
+  <circle cx="40" cy="45" r="3" fill="#fbbf24" opacity="0.7"/>
+  <circle cx="150" cy="50" r="2.5" fill="#fbbf24" opacity="0.6"/>
+  <circle cx="55" cy="160" r="2" fill="#fbbf24" opacity="0.5"/>
+  <circle cx="140" cy="155" r="3" fill="#fbbf24" opacity="0.6"/>
+  <circle cx="30" cy="100" r="2" fill="#fbbf24" opacity="0.4"/>
+  <circle cx="165" cy="110" r="2.5" fill="#fbbf24" opacity="0.5"/>
+</svg>

@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "Gerador de Saudações de Ano Novo Lunar - 2026 Ano do Cavalo | DopaBrain",
+    "loading": "Carregando...",
+    "skipLink": "Pular para o conteúdo"
+  },
+  "meta": {
+    "title": "Gerador de Saudações de Ano Novo Lunar - 2026 Ano do Cavalo | DopaBrain",
+    "description": "Crie a saudação perfeita de Ano Novo Lunar! Gere bênçãos personalizadas para pais, avós, chefe, amigos e mais.",
+    "og_title": "Gerador de Saudações - 2026 Ano do Cavalo",
+    "og_description": "Crie saudações personalizadas de Ano Novo Lunar!",
+    "twitter_title": "Gerador de Saudações de Ano Novo 2026",
+    "twitter_description": "Crie saudações personalizadas de Ano Novo!"
+  },
+  "intro": {
+    "title": "Gerador de\nSaudações",
+    "subtitle": "Saudações perfeitas em um toque!",
+    "description": "Escolha o destinatário e o tom,\ne receba saudações personalizadas",
+    "badge1": "🎊 Personalizado",
+    "badge2": "📋 Copie na hora",
+    "badge3": "🐴 2026 Ano do Cavalo"
+  },
+  "button": {
+    "start": "Criar Saudação",
+    "copy": "Copiar",
+    "share": "Compartilhar",
+    "regenerate": "🔄 Ver outras saudações",
+    "newGreeting": "✨ Recomeçar"
+  },
+  "recipient": {
+    "title": "Para quem é?",
+    "parents": "Pais",
+    "grandparents": "Avós",
+    "boss": "Chefe / Superior",
+    "colleague": "Colegas",
+    "friend": "Amigos",
+    "partner": "Parceiro(a)",
+    "sns": "Redes Sociais"
+  },
+  "tone": {
+    "title": "Qual o estilo?",
+    "description": "Escolha o tom da saudação",
+    "formal": "Formal",
+    "formalHint": "Educado e respeitoso",
+    "casual": "Informal",
+    "casualHint": "Amigável e descontraído",
+    "funny": "Engraçado",
+    "funnyHint": "Bem-humorado e leve"
+  },
+  "result": {
+    "title": "Suas saudações estão prontas!"
+  },
+  "greeting": {
+    "copied": "Copiado",
+    "copiedToast": "Saudação copiada!",
+    "copyFailed": "Falha ao copiar",
+    "regenerate": "Outra saudação"
+  },
+  "share": {
+    "title": "Saudação de Ano Novo"
+  },
+  "history": {
+    "title": "📋 Saudações copiadas",
+    "clear": "Limpar histórico"
+  },
+  "footer": {
+    "portal": "DopaBrain"
+  }
+}

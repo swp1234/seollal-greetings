@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "Ay Yeni Yılı Tebrik Oluşturucu - 2026 At Yılı | DopaBrain",
+    "loading": "Yükleniyor...",
+    "skipLink": "İçeriğe geç"
+  },
+  "meta": {
+    "title": "Ay Yeni Yılı Tebrik Oluşturucu - 2026 At Yılı | DopaBrain",
+    "description": "Mükemmel Ay Yeni Yılı tebriğini oluşturun! Ebeveynler, büyükanne-büyükbaba, patron, arkadaşlar ve daha fazlası için özel kutlamalar oluşturun.",
+    "og_title": "Tebrik Oluşturucu - 2026 At Yılı",
+    "og_description": "Kişiselleştirilmiş Ay Yeni Yılı tebrikleri oluşturun!",
+    "twitter_title": "Yeni Yıl Tebrik Oluşturucu 2026",
+    "twitter_description": "Özel yeni yıl tebrikleri oluşturun!"
+  },
+  "intro": {
+    "title": "Yeni Yıl\nTebrik Oluşturucu",
+    "subtitle": "Tek dokunuşla mükemmel tebrikler!",
+    "description": "Alıcıyı ve tonu seçin,\nanında özel tebrikler alın",
+    "badge1": "🎊 Kişiselleştirilmiş",
+    "badge2": "📋 Anında Kopyala",
+    "badge3": "🐴 2026 At Yılı"
+  },
+  "button": {
+    "start": "Tebrik Oluştur",
+    "copy": "Kopyala",
+    "share": "Paylaş",
+    "regenerate": "🔄 Farklı Tebrikler Göster",
+    "newGreeting": "✨ Baştan Başla"
+  },
+  "recipient": {
+    "title": "Kime gönderilecek?",
+    "parents": "Anne-Baba",
+    "grandparents": "Büyükanne-Büyükbaba",
+    "boss": "Patron / Üst",
+    "colleague": "İş Arkadaşları",
+    "friend": "Arkadaşlar",
+    "partner": "Sevgili",
+    "sns": "Sosyal Medya"
+  },
+  "tone": {
+    "title": "Hangi tarzda?",
+    "description": "Tebriğin tonunu seçin",
+    "formal": "Resmi",
+    "formalHint": "Kibar ve saygılı",
+    "casual": "Rahat",
+    "casualHint": "Samimi ve rahat",
+    "funny": "Komik",
+    "funnyHint": "Eğlenceli ve neşeli"
+  },
+  "result": {
+    "title": "Tebrikleriniz hazır!"
+  },
+  "greeting": {
+    "copied": "Kopyalandı",
+    "copiedToast": "Tebrik panoya kopyalandı!",
+    "copyFailed": "Kopyalama başarısız",
+    "regenerate": "Farklı tebrik"
+  },
+  "share": {
+    "title": "Yeni Yıl Tebriği"
+  },
+  "history": {
+    "title": "📋 Kopyalanan Tebrikler",
+    "clear": "Geçmişi Temizle"
+  },
+  "footer": {
+    "portal": "DopaBrain"
+  }
+}

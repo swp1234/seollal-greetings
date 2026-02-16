@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "Générateur de Voeux du Nouvel An Lunaire - 2026 Année du Cheval | DopaBrain",
+    "loading": "Chargement...",
+    "skipLink": "Aller au contenu"
+  },
+  "meta": {
+    "title": "Générateur de Voeux du Nouvel An Lunaire - 2026 Année du Cheval | DopaBrain",
+    "description": "Créez le voeu parfait pour le Nouvel An Lunaire ! Générez des bénédictions personnalisées pour parents, grands-parents, patron, amis et plus.",
+    "og_title": "Générateur de Voeux - 2026 Année du Cheval",
+    "og_description": "Créez des voeux personnalisés pour le Nouvel An Lunaire !",
+    "twitter_title": "Générateur de Voeux du Nouvel An 2026",
+    "twitter_description": "Créez des voeux personnalisés pour le Nouvel An !"
+  },
+  "intro": {
+    "title": "Générateur de\nVoeux",
+    "subtitle": "Des voeux parfaits en un clic !",
+    "description": "Choisissez le destinataire et le ton,\net obtenez des voeux personnalisés",
+    "badge1": "🎊 Personnalisé",
+    "badge2": "📋 Copie rapide",
+    "badge3": "🐴 2026 Année du Cheval"
+  },
+  "button": {
+    "start": "Créer un voeu",
+    "copy": "Copier",
+    "share": "Partager",
+    "regenerate": "🔄 Voir d'autres voeux",
+    "newGreeting": "✨ Recommencer"
+  },
+  "recipient": {
+    "title": "Pour qui ?",
+    "parents": "Parents",
+    "grandparents": "Grands-parents",
+    "boss": "Patron / Supérieur",
+    "colleague": "Collègues",
+    "friend": "Amis",
+    "partner": "Partenaire",
+    "sns": "Réseaux Sociaux"
+  },
+  "tone": {
+    "title": "Quel style ?",
+    "description": "Choisissez le ton du voeu",
+    "formal": "Formel",
+    "formalHint": "Poli et respectueux",
+    "casual": "Décontracté",
+    "casualHint": "Amical et détendu",
+    "funny": "Drôle",
+    "funnyHint": "Humoristique et léger"
+  },
+  "result": {
+    "title": "Vos voeux sont prêts !"
+  },
+  "greeting": {
+    "copied": "Copié",
+    "copiedToast": "Voeu copié dans le presse-papiers !",
+    "copyFailed": "Échec de la copie",
+    "regenerate": "Autre voeu"
+  },
+  "share": {
+    "title": "Voeu du Nouvel An"
+  },
+  "history": {
+    "title": "📋 Voeux copiés",
+    "clear": "Effacer l'historique"
+  },
+  "footer": {
+    "portal": "DopaBrain"
+  }
+}

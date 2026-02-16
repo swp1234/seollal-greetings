@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "Generator Ucapan Tahun Baru Imlek - 2026 Tahun Kuda | DopaBrain",
+    "loading": "Memuat...",
+    "skipLink": "Langsung ke konten"
+  },
+  "meta": {
+    "title": "Generator Ucapan Tahun Baru Imlek - 2026 Tahun Kuda | DopaBrain",
+    "description": "Buat ucapan Tahun Baru Imlek yang sempurna! Hasilkan ucapan khusus untuk orang tua, kakek-nenek, atasan, teman, dan lainnya.",
+    "og_title": "Generator Ucapan - 2026 Tahun Kuda",
+    "og_description": "Buat ucapan Tahun Baru Imlek yang dipersonalisasi!",
+    "twitter_title": "Generator Ucapan Tahun Baru 2026",
+    "twitter_description": "Buat ucapan Tahun Baru khusus!"
+  },
+  "intro": {
+    "title": "Generator\nUcapan Tahun Baru",
+    "subtitle": "Ucapan sempurna dalam sekejap!",
+    "description": "Pilih penerima dan nada,\ndapatkan ucapan khusus langsung",
+    "badge1": "🎊 Dipersonalisasi",
+    "badge2": "📋 Salin Langsung",
+    "badge3": "🐴 2026 Tahun Kuda"
+  },
+  "button": {
+    "start": "Buat Ucapan",
+    "copy": "Salin",
+    "share": "Bagikan",
+    "regenerate": "🔄 Lihat Ucapan Lain",
+    "newGreeting": "✨ Mulai Ulang"
+  },
+  "recipient": {
+    "title": "Untuk siapa?",
+    "parents": "Orang Tua",
+    "grandparents": "Kakek-Nenek",
+    "boss": "Atasan",
+    "colleague": "Rekan Kerja",
+    "friend": "Teman",
+    "partner": "Pasangan",
+    "sns": "Media Sosial"
+  },
+  "tone": {
+    "title": "Gaya apa?",
+    "description": "Pilih nada ucapan",
+    "formal": "Formal",
+    "formalHint": "Sopan dan hormat",
+    "casual": "Santai",
+    "casualHint": "Ramah dan rileks",
+    "funny": "Lucu",
+    "funnyHint": "Humor dan ceria"
+  },
+  "result": {
+    "title": "Ucapan Anda siap!"
+  },
+  "greeting": {
+    "copied": "Disalin",
+    "copiedToast": "Ucapan berhasil disalin!",
+    "copyFailed": "Gagal menyalin",
+    "regenerate": "Ucapan lain"
+  },
+  "share": {
+    "title": "Ucapan Tahun Baru"
+  },
+  "history": {
+    "title": "📋 Ucapan yang Disalin",
+    "clear": "Hapus Riwayat"
+  },
+  "footer": {
+    "portal": "DopaBrain"
+  }
+}

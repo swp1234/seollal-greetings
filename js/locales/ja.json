@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "旧正月挨拶ジェネレーター - 2026年午年 | DopaBrain",
+    "loading": "読み込み中...",
+    "skipLink": "本文へスキップ"
+  },
+  "meta": {
+    "title": "旧正月挨拶ジェネレーター - 2026年午年 | DopaBrain",
+    "description": "2026年の旧正月にぴったりの挨拶を作りましょう！両親、祖父母、上司、友人、恋人向けのカスタム挨拶を生成してコピーできます。",
+    "og_title": "旧正月挨拶ジェネレーター - 2026年午年",
+    "og_description": "シーン別の旧正月挨拶を簡単に作成！",
+    "twitter_title": "旧正月挨拶ジェネレーター 2026",
+    "twitter_description": "カスタム新年の挨拶を作成しましょう！"
+  },
+  "intro": {
+    "title": "旧正月\n挨拶ジェネレーター",
+    "subtitle": "完璧な挨拶をワンタップで！",
+    "description": "送り先とトーンを選ぶだけで\nカスタム挨拶が完成します",
+    "badge1": "🎊 シーン別対応",
+    "badge2": "📋 すぐコピー",
+    "badge3": "🐴 2026年 午年"
+  },
+  "button": {
+    "start": "挨拶を作成",
+    "copy": "コピー",
+    "share": "共有",
+    "regenerate": "🔄 別の挨拶を見る",
+    "newGreeting": "✨ 最初からやり直す"
+  },
+  "recipient": {
+    "title": "誰に送りますか？",
+    "parents": "両親",
+    "grandparents": "祖父母",
+    "boss": "上司",
+    "colleague": "同僚",
+    "friend": "友達",
+    "partner": "恋人",
+    "sns": "SNS用"
+  },
+  "tone": {
+    "title": "どんな雰囲気で？",
+    "description": "挨拶のトーンを選んでください",
+    "formal": "フォーマル",
+    "formalHint": "丁寧で礼儀正しく",
+    "casual": "カジュアル",
+    "casualHint": "親しみやすくフレンドリーに",
+    "funny": "ユーモア",
+    "funnyHint": "笑いいっぱいで楽しく"
+  },
+  "result": {
+    "title": "挨拶ができました！"
+  },
+  "greeting": {
+    "copied": "コピー済み",
+    "copiedToast": "挨拶をコピーしました！",
+    "copyFailed": "コピー失敗",
+    "regenerate": "別の挨拶"
+  },
+  "share": {
+    "title": "旧正月の挨拶"
+  },
+  "history": {
+    "title": "📋 コピーした挨拶",
+    "clear": "履歴を削除"
+  },
+  "footer": {
+    "portal": "DopaBrain"
+  }
+}

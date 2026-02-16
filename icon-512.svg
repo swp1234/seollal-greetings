@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#be185d"/>
+      <stop offset="100%" stop-color="#9f1239"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <!-- Bokjumeoni (fortune pouch) body -->
+  <ellipse cx="256" cy="310" rx="115" ry="105" fill="url(#redGrad)" opacity="0.95"/>
+  <!-- Pouch top gather -->
+  <path d="M155 255 Q200 218 256 222 Q312 218 357 255" fill="url(#redGrad)" stroke="#fbbf24" stroke-width="5"/>
+  <!-- Gold string bow -->
+  <path d="M210 235 Q230 195 256 198 Q282 195 302 235" fill="none" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  <!-- Tassel left -->
+  <line x1="210" y1="235" x2="190" y2="170" stroke="#fbbf24" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="190" cy="163" r="10" fill="#fbbf24"/>
+  <line x1="190" y1="153" x2="180" y2="130" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  <line x1="190" y1="153" x2="195" y2="128" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  <!-- Tassel right -->
+  <line x1="302" y1="235" x2="322" y2="170" stroke="#fbbf24" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="322" cy="163" r="10" fill="#fbbf24"/>
+  <line x1="322" y1="153" x2="312" y2="130" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  <line x1="322" y1="153" x2="327" y2="128" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+  <!-- Fu character (福) -->
+  <text x="256" y="340" text-anchor="middle" font-size="80" font-weight="bold" fill="#fbbf24" font-family="serif">福</text>
+  <!-- Decorative sparkles -->
+  <circle cx="90" cy="100" r="6" fill="#fbbf24" opacity="0.7"/>
+  <circle cx="420" cy="120" r="5" fill="#fbbf24" opacity="0.6"/>
+  <circle cx="70" cy="400" r="4" fill="#fbbf24" opacity="0.5"/>
+  <circle cx="440" cy="390" r="6" fill="#fbbf24" opacity="0.6"/>
+  <circle cx="120" cy="250" r="3" fill="#fbbf24" opacity="0.4"/>
+  <circle cx="400" cy="260" r="4" fill="#fbbf24" opacity="0.5"/>
+  <circle cx="160" cy="440" r="5" fill="#fbbf24" opacity="0.5"/>
+  <circle cx="360" cy="450" r="4" fill="#fbbf24" opacity="0.4"/>
+  <!-- Small plum blossoms -->
+  <g transform="translate(80,180)" opacity="0.6">
+    <circle cx="0" cy="-8" r="4" fill="#fda4af"/>
+    <circle cx="7.6" cy="-2.5" r="4" fill="#fda4af"/>
+    <circle cx="4.7" cy="6.5" r="4" fill="#fda4af"/>
+    <circle cx="-4.7" cy="6.5" r="4" fill="#fda4af"/>
+    <circle cx="-7.6" cy="-2.5" r="4" fill="#fda4af"/>
+    <circle cx="0" cy="0" r="3" fill="#fbbf24"/>
+  </g>
+  <g transform="translate(430,320)" opacity="0.5">
+    <circle cx="0" cy="-7" r="3.5" fill="#fda4af"/>
+    <circle cx="6.6" cy="-2.2" r="3.5" fill="#fda4af"/>
+    <circle cx="4.1" cy="5.7" r="3.5" fill="#fda4af"/>
+    <circle cx="-4.1" cy="5.7" r="3.5" fill="#fda4af"/>
+    <circle cx="-6.6" cy="-2.2" r="3.5" fill="#fda4af"/>
+    <circle cx="0" cy="0" r="2.5" fill="#fbbf24"/>
+  </g>
+</svg>

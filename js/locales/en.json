@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "New Year Greeting Generator - 2026 Year of the Horse | DopaBrain",
+    "loading": "Loading...",
+    "skipLink": "Skip to content"
+  },
+  "meta": {
+    "title": "New Year Greeting Generator - 2026 Year of the Horse | DopaBrain",
+    "description": "Create the perfect Lunar New Year greeting! Generate custom blessings for parents, grandparents, boss, friends, and more. Copy and share instantly.",
+    "og_title": "Lunar New Year Greeting Generator - 2026 Year of the Horse",
+    "og_description": "Create personalized Lunar New Year greetings for any occasion!",
+    "twitter_title": "Lunar New Year Greeting Generator 2026",
+    "twitter_description": "Create custom New Year greetings and blessings!"
+  },
+  "intro": {
+    "title": "New Year\nGreeting Generator",
+    "subtitle": "Perfect greetings in one tap!",
+    "description": "Choose the recipient and tone,\nand get custom greetings instantly",
+    "badge1": "🎊 Personalized",
+    "badge2": "📋 Copy Instantly",
+    "badge3": "🐴 2026 Year of Horse"
+  },
+  "button": {
+    "start": "Create Greeting",
+    "copy": "Copy",
+    "share": "Share",
+    "regenerate": "🔄 Show Different Greetings",
+    "newGreeting": "✨ Start Over"
+  },
+  "recipient": {
+    "title": "Who is it for?",
+    "parents": "Parents",
+    "grandparents": "Grandparents",
+    "boss": "Boss / Senior",
+    "colleague": "Colleagues",
+    "friend": "Friends",
+    "partner": "Partner",
+    "sns": "Social Media"
+  },
+  "tone": {
+    "title": "What's the vibe?",
+    "description": "Choose the tone for your greeting",
+    "formal": "Formal",
+    "formalHint": "Polite and respectful",
+    "casual": "Casual",
+    "casualHint": "Friendly and relaxed",
+    "funny": "Funny",
+    "funnyHint": "Humorous and lighthearted"
+  },
+  "result": {
+    "title": "Your greetings are ready!"
+  },
+  "greeting": {
+    "copied": "Copied",
+    "copiedToast": "Greeting copied to clipboard!",
+    "copyFailed": "Copy failed",
+    "regenerate": "Different greeting"
+  },
+  "share": {
+    "title": "New Year Greeting"
+  },
+  "history": {
+    "title": "📋 Copied Greetings",
+    "clear": "Clear History"
+  },
+  "footer": {
+    "portal": "DopaBrain"
+  }
+}

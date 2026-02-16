@@ -1,0 +1,69 @@
+{
+  "app": {
+    "title": "Mondneujahr-Grußgenerator - 2026 Jahr des Pferdes | DopaBrain",
+    "loading": "Laden...",
+    "skipLink": "Zum Inhalt springen"
+  },
+  "meta": {
+    "title": "Mondneujahr-Grußgenerator - 2026 Jahr des Pferdes | DopaBrain",
+    "description": "Erstellen Sie den perfekten Mondneujahrsgruß! Generieren Sie individuelle Segenssprüche für Eltern, Großeltern, Chef, Freunde und mehr.",
+    "og_title": "Grußgenerator - 2026 Jahr des Pferdes",
+    "og_description": "Erstellen Sie personalisierte Mondneujahrsgrüße!",
+    "twitter_title": "Neujahrs-Grußgenerator 2026",
+    "twitter_description": "Erstellen Sie individuelle Neujahrsgrüße!"
+  },
+  "intro": {
+    "title": "Neujahrs-\nGrußgenerator",
+    "subtitle": "Perfekte Grüße mit einem Tipp!",
+    "description": "Wählen Sie Empfänger und Ton,\nund erhalten Sie individuelle Grüße",
+    "badge1": "🎊 Personalisiert",
+    "badge2": "📋 Sofort kopieren",
+    "badge3": "🐴 2026 Jahr des Pferdes"
+  },
+  "button": {
+    "start": "Gruß erstellen",
+    "copy": "Kopieren",
+    "share": "Teilen",
+    "regenerate": "🔄 Andere Grüße anzeigen",
+    "newGreeting": "✨ Von vorne beginnen"
+  },
+  "recipient": {
+    "title": "Für wen ist es?",
+    "parents": "Eltern",
+    "grandparents": "Großeltern",
+    "boss": "Chef / Vorgesetzter",
+    "colleague": "Kollegen",
+    "friend": "Freunde",
+    "partner": "Partner/in",
+    "sns": "Soziale Medien"
+  },
+  "tone": {
+    "title": "Welcher Stil?",
+    "description": "Wählen Sie den Ton des Grußes",
+    "formal": "Formell",
+    "formalHint": "Höflich und respektvoll",
+    "casual": "Locker",
+    "casualHint": "Freundlich und entspannt",
+    "funny": "Lustig",
+    "funnyHint": "Humorvoll und heiter"
+  },
+  "result": {
+    "title": "Ihre Grüße sind fertig!"
+  },
+  "greeting": {
+    "copied": "Kopiert",
+    "copiedToast": "Gruß in die Zwischenablage kopiert!",
+    "copyFailed": "Kopieren fehlgeschlagen",
+    "regenerate": "Anderer Gruß"
+  },
+  "share": {
+    "title": "Neujahrsgruß"
+  },
+  "history": {
+    "title": "📋 Kopierte Grüße",
+    "clear": "Verlauf löschen"
+  },
+  "footer": {
+    "portal": "DopaBrain"
+  }
+}
