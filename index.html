@@ -252,6 +252,12 @@
             <!-- Ad slot -->
             <div class="ad-banner ad-mid"><span class="ad-placeholder">AD</span></div>
 
+            <!-- Share -->
+            <div class="share-section" style="display:flex;gap:8px;justify-content:center;margin:16px auto;flex-wrap:wrap;">
+                <button onclick="shareApp()" style="min-height:44px;padding:10px 20px;border:none;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer;background:rgba(255,255,255,0.15);color:inherit;display:inline-flex;align-items:center;gap:6px;">📤 공유하기</button>
+                <button onclick="shareTwitter()" style="min-height:44px;padding:10px 20px;border:none;border-radius:12px;font-size:14px;font-weight:600;cursor:pointer;background:#000;color:#fff;display:inline-flex;align-items:center;gap:6px;">𝕏 Twitter</button>
+            </div>
+
             <!-- History -->
             <div class="history-section" id="history-section" style="display:none;">
                 <h3 data-i18n="history.title">📋 복사한 인사말</h3>
@@ -271,6 +277,28 @@
     <script src="js/i18n.js"></script>
     <script src="js/greetings-data.js"></script>
     <script src="js/app.js"></script>
+    <script>
+      function shareApp() {
+        const url = window.location.href;
+        if (navigator.share) {
+          navigator.share({ title: document.title, url }).catch(() => {});
+        } else {
+          navigator.clipboard.writeText(url).then(() => {
+            alert('링크가 복사되었습니다!');
+          }).catch(() => { prompt('Copy:', url); });
+        }
+      }
+      function shareTwitter() {
+        window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(window.location.href) + '&text=' + encodeURIComponent(document.title + ' - DopaBrain'), '_blank');
+      }
+    </script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(() => {});
+        });
+      }
+    </script>
     <script src="/portal/js/cross-promo.js" defer></script>
     <script src="/portal/js/pwa-install.js" defer></script>
 </body>
