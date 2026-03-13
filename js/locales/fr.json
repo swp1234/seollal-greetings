@@ -65,5 +65,12 @@
   },
   "footer": {
     "portal": "DopaBrain"
+  },
+  "related": {
+    "title": "À découvrir",
+    "seollalFortune": "Fortune de Seollal",
+    "fortuneCookie": "Fortune Cookie",
+    "dailyTarot": "Tarot du jour",
+    "luckMeter": "Chance-mètre"
   }
 }

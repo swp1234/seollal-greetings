@@ -65,5 +65,12 @@
   },
   "footer": {
     "portal": "DopaBrain"
+  },
+  "related": {
+    "title": "Jelajahi lainnya",
+    "seollalFortune": "Ramalan Seollal",
+    "fortuneCookie": "Kue keberuntungan",
+    "dailyTarot": "Tarot harian",
+    "luckMeter": "Pengukur keberuntungan"
   }
 }

@@ -65,5 +65,12 @@
   },
   "footer": {
     "portal": "DopaBrain"
+  },
+  "related": {
+    "title": "探索更多",
+    "seollalFortune": "春节运势",
+    "fortuneCookie": "幸运饼干",
+    "dailyTarot": "每日塔罗",
+    "luckMeter": "运气测量"
   }
 }

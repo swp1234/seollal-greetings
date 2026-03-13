@@ -65,5 +65,12 @@
   },
   "footer": {
     "portal": "DopaBrain"
+  },
+  "related": {
+    "title": "Ещё интересное",
+    "seollalFortune": "Гадание Соллаль",
+    "fortuneCookie": "Печенье с предсказанием",
+    "dailyTarot": "Таро дня",
+    "luckMeter": "Измеритель удачи"
   }
 }

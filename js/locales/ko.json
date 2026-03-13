@@ -65,5 +65,12 @@
   },
   "footer": {
     "portal": "DopaBrain"
+  },
+  "related": {
+    "title": "더 많은 콘텐츠",
+    "seollalFortune": "설날 운세",
+    "fortuneCookie": "포춘쿠키",
+    "dailyTarot": "오늘의 타로",
+    "luckMeter": "행운 측정기"
   }
 }

@@ -65,5 +65,12 @@
   },
   "footer": {
     "portal": "DopaBrain"
+  },
+  "related": {
+    "title": "Daha fazla keşfet",
+    "seollalFortune": "Seollal falı",
+    "fortuneCookie": "Şans kurabiyesi",
+    "dailyTarot": "Günlük Tarot",
+    "luckMeter": "Şans ölçer"
   }
 }

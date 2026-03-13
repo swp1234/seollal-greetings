@@ -65,5 +65,12 @@
   },
   "footer": {
     "portal": "DopaBrain"
+  },
+  "related": {
+    "title": "もっと楽しむ",
+    "seollalFortune": "ソルラル占い",
+    "fortuneCookie": "フォーチュンクッキー",
+    "dailyTarot": "デイリータロット",
+    "luckMeter": "運勢メーター"
   }
 }

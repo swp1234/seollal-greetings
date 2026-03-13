@@ -65,5 +65,12 @@
   },
   "footer": {
     "portal": "DopaBrain"
+  },
+  "related": {
+    "title": "Mehr entdecken",
+    "seollalFortune": "Seollal Wahrsagung",
+    "fortuneCookie": "Glückskeks",
+    "dailyTarot": "Tages-Tarot",
+    "luckMeter": "Glücksmesser"
   }
 }

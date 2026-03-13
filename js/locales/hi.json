@@ -65,5 +65,12 @@
   },
   "footer": {
     "portal": "DopaBrain"
+  },
+  "related": {
+    "title": "और खोजें",
+    "seollalFortune": "सोलल भाग्य",
+    "fortuneCookie": "फॉर्च्यून कुकी",
+    "dailyTarot": "दैनिक टैरो",
+    "luckMeter": "भाग्य मीटर"
   }
 }
