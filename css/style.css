@@ -695,6 +695,13 @@ body {
 .app-footer a {
     color: var(--primary-light);
     text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    min-width: 44px;
+    padding: 0 8px;
+    touch-action: manipulation;
 }
 .app-footer a:hover {
     text-decoration: underline;
