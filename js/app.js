@@ -1,3 +1,25 @@
+
+function preserveLanguageLinks() {
+    var urlLang = new URLSearchParams(window.location.search).get('lang');
+    var currentLang = urlLang || (typeof i18n !== 'undefined' && typeof i18n.getCurrentLanguage === 'function' ? i18n.getCurrentLanguage() : null) || 'ko';
+    var links = document.querySelectorAll('a[href^="/"], .related-card');
+    var base = (window.location.origin && window.location.origin !== 'null') ? window.location.origin : 'https://dopabrain.com';
+    links.forEach(function(link) {
+        var href = link.getAttribute('href');
+        if (!href || href.startsWith('http') || href.startsWith('#')) return;
+        try {
+            var url = new URL(href, base);
+            url.searchParams.set('lang', currentLang);
+            link.setAttribute('href', url.pathname + url.search);
+        } catch(e) {}
+    });
+}
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', preserveLanguageLinks);
+} else {
+    preserveLanguageLinks();
+}
+
 /* Seollal Greetings Generator - Main App Logic */
 ;(function() {
     'use strict';
