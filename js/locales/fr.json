@@ -72,5 +72,16 @@
     "fortuneCookie": "Fortune Cookie",
     "dailyTarot": "Tarot du jour",
     "dreamFortune": "Interprétation Rêves"
+  },
+  "faq": {
+    "title": "Foire Aux Questions (FAQ)",
+    "q1": "Pourquoi le niveau de politesse est-il essentiel pour les vœux du Nouvel An lunaire ?",
+    "a1": "La politesse traditionnelle du Seollal reflète le respect des aînés et des hiérarchies relationnelles. Choisir des formules adaptées à chaque proche ou collègue traduit une sincère bienveillance.",
+    "q2": "Que symbolise l'année du Cheval de Feu 2026 (Byeong-o) ?",
+    "a2": "Dans le calendrier sexagésimal asiatique, Byeong-o incarne le Cheval de Feu, métaphore d'énergie inépuisable, d'élan conquérant et de prospérité.",
+    "q3": "Les messages sont-ils modulables selon les destinataires ?",
+    "a3": "Oui. Vous pouvez sélectionner les destinataires (famille, responsables, collègues, amis, réseaux) et le registre de langue (formel, amical, teinté d'humour).",
+    "q4": "Mes messages et choix sont-ils stockés sur un serveur distant ?",
+    "a4": "Non. Tout le processus s'effectue strictement en local dans votre navigateur, sans aucun transfert de données personnelles."
   }
 }

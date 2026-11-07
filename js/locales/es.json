@@ -72,5 +72,16 @@
     "fortuneCookie": "Galleta de la fortuna",
     "dailyTarot": "Tarot diario",
     "dreamFortune": "Significado Sueños"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "q1": "¿Por qué es tan importante el tono y la cortesía en los saludos de Año Nuevo Lunar?",
+    "a1": "La etiqueta tradicional de Seollal refleja el respeto relacional y la armonía social. Adaptar un lenguaje formal para mayores y líderes, y uno afectuoso para amigos, demuestra consideración genuina.",
+    "q2": "¿Qué simboliza el Año del Caballo de Fuego (2026, Byeong-o)?",
+    "a2": "En el ciclo sexagenario oriental, Byeong-o representa al Caballo de Fuego, símbolo de energía vibrante, pasión por avanzar, superación y audaz prosperidad.",
+    "q3": "¿Se pueden personalizar los mensajes según cada destinatario?",
+    "a3": "Sí. Permite seleccionar categorías específicas (padres, abuelos, superiores, colegas, amistades, redes sociales) y ajustar el tono (formal, cercano, ingenioso).",
+    "q4": "¿Se recopilan mis selecciones o textos generados en algún servidor?",
+    "a4": "No. Toda la generación ocurre en su navegador local. Ningún texto ni elección es transmitido a servidores externos."
   }
 }

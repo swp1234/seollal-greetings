@@ -72,5 +72,16 @@
     "fortuneCookie": "Fortune Cookie",
     "dailyTarot": "Daily Tarot",
     "dreamFortune": "Dream Fortune"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "Why is tone and honorific level so crucial in Lunar New Year greetings?",
+    "a1": "Traditional Lunar New Year (Seollal) etiquette reflects cultural pragmatics and relational respect. Using appropriate formal phrasing for elders and supervisors, compared to warm casual expressions for friends, communicates thoughtful social awareness.",
+    "q2": "What does the 2026 Year of the Fire Horse (병오년) symbolize?",
+    "a2": "In the East Asian sexagenary cycle, Byeong-o (병오, 丙午) represents the Fire Horse. It carries cultural connotations of vigorous energy, dynamic drive, resilience, and bold personal progress.",
+    "q3": "Can I customize the generated greetings for different recipients?",
+    "a3": "Yes. You can select distinct recipient categories (parents, grandparents, workplace mentors, colleagues, friends, social media) and tones (formal, polite, friendly, witty) to suit every personal context.",
+    "q4": "Are my recipient choices or custom message edits stored on a server?",
+    "a4": "No. The generator runs completely within your local browser session. No recipient selections, generated text, or clipboard actions are ever collected or sent to remote servers."
   }
 }

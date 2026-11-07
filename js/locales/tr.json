@@ -72,5 +72,16 @@
     "fortuneCookie": "Şans kurabiyesi",
     "dailyTarot": "Günlük Tarot",
     "dreamFortune": "Rüya Tabirleri"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular (FAQ)",
+    "q1": "Ay Takvimi Yeni Yılı tebriklerinde saygı ve hitap tonu neden önemlidir?",
+    "a1": "Geleneksel Seollal nezaketi toplumsal saygı ve bağları yansıtır. Büyükler ve yöneticiler için saygılı bir dil, arkadaşlar için samimi ifadeler kullanmak içtenliği gösterir.",
+    "q2": "2026 Ateş Atı Yılı (Byeong-o) hangi kültürel anlamı taşır?",
+    "a2": "Doğu Asya takvim döngüsünde Byeong-o, Ateş Atını temsil eder; yüksek motivasyon, cesur atılımlar, canlılık ve başarı sembolüdür.",
+    "q3": "Mesajları farklı kişilere göre özelleştirebilir miyim?",
+    "a3": "Evet. Aile büyükleri, iş arkadaşları, yöneticiler ve dostlar için resmi, sıcak veya esprili ton seçenekleriyle mesajınızı kişiselleştirebilirsiniz.",
+    "q4": "Oluşturulan tebrikler sunucularda depolanıyor mu?",
+    "a4": "Hayır. Bütün tebrik oluşturma ve kopyalama işlemleri tarayıcınızda yerel olarak gerçekleşir; hiçbir veri dışarıya aktarılmaz."
   }
 }

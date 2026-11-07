@@ -72,5 +72,16 @@
     "fortuneCookie": "Glückskeks",
     "dailyTarot": "Tages-Tarot",
     "dreamFortune": "Traumdeutung"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen (FAQ)",
+    "q1": "Warum sind Tonlage und Höflichkeitsgrad bei Neujahrsgrüßen so entscheidend?",
+    "a1": "Die traditionelle Etikette zum Mondneujahr spiegelt zwischenmenschlichen Respekt wider. Formelle Formulierungen für Ältere und Vorgesetzte sowie herzliche Worte für Freunde zeugen von sozialer Achtsamkeit.",
+    "q2": "Welche Symbolik trägt das Jahr des Feuer-Pferdes 2026 (Byeong-o)?",
+    "a2": "Im ostasiatischen 60-Jahre-Zyklus steht 'Byeong-o' für das feurige Pferd, ein Sinnbild für dynamische Tatkraft, mutigen Aufbruch und Vitalität.",
+    "q3": "Können die Grußformeln individuell angepasst werden?",
+    "a3": "Ja. Sie können Empfänger (Eltern, Großeltern, Vorgesetzte, Kollegen, Freunde, Social Media) und Stilrichtungen (förmlich, herzlich, humorvoll) gezielt wählen.",
+    "q4": "Werden meine Grußtexte oder Auswahlen auf Servern gespeichert?",
+    "a4": "Nein. Alle Abläufe erfolgen lokal in Ihrem Browser, ohne dass persönliche Daten oder Nachrichten extern erfasst werden."
   }
 }

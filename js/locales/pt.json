@@ -72,5 +72,16 @@
     "fortuneCookie": "Biscoito da sorte",
     "dailyTarot": "Tarô diário",
     "dreamFortune": "Significado Sonhos"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes (FAQ)",
+    "q1": "Por que o tom e a formalidade são tão cruciais nas saudações do Ano Novo Lunar?",
+    "a1": "A tradição do Seollal valoriza o respeito mútuo e a harmonia social. Adequar expressões formais para anciãos e superiores e mensagens calorosas para amigos expressa carinho e boa educação.",
+    "q2": "O que simboliza o Ano do Cavalo de Fogo de 2026 (Byeong-o)?",
+    "a2": "No ciclo sexagenário asiático, Byeong-o representa o Cavalo de Fogo, emblema de vitalidade, ímpeto de realização, dinamismo e conquistas.",
+    "q3": "Posso personalizar as felicitações para diferentes pessoas?",
+    "a3": "Sim. O gerador oferece categorias variadas (pais, avós, chefes, colegas, amigos, redes sociais) combinadas a diferentes tons de linguagem.",
+    "q4": "Minhas saudações ou dados são arquivados em servidores?",
+    "a4": "Não. Todas as interações ocorrem exclusivamente no navegador do seu dispositivo, garantindo privacidade absoluta."
   }
 }

@@ -72,5 +72,16 @@
     "fortuneCookie": "Kue keberuntungan",
     "dailyTarot": "Tarot harian",
     "dreamFortune": "Arti Mimpi"
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "q1": "Mengapa tingkatan kesopanan sangat penting dalam ucapan Tahun Baru Imlek?",
+    "a1": "Tata krama Seollal mencerminkan rasa hormat dan etika sosial. Menggunakan ragam bahasa santun untuk orang tua dan atasan, serta gaya santai untuk teman, menunjukkan kepekaan sosial yang tulus.",
+    "q2": "Apa makna simbolis Tahun Kuda Api 2026 (Byeong-o)?",
+    "a2": "Dalam siklus enam puluh tahunan, Byeong-o melambangkan Kuda Api yang merepresentasikan energi berlimpah, tekad pantang menyerah, dan kemajuan yang dinamis.",
+    "q3": "Dapatkah pesan disesuaikan dengan berbagai penerima?",
+    "a3": "Ya. Tersedia kategori penerima (orang tua, kakek-nenek, atasan, rekan kerja, sahabat, media sosial) dengan pilihan gaya formal, ramah, atau jenaka.",
+    "q4": "Apakah ucapan atau teks yang dibuat disimpan di server luar?",
+    "a4": "Tidak. Seluruh pembuatan pesan berjalan lokal di peramban Anda tanpa ada riwayat yang dikirim ke server luar."
   }
 }
