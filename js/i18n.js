@@ -10,6 +10,13 @@
         };
 
         I18n.prototype.detectLanguage = function() {
+            try {
+                var params = new URLSearchParams(window.location.search || '');
+                var urlLang = params.get('lang');
+                if (urlLang && this.supportedLanguages.indexOf(urlLang) !== -1) {
+                    return urlLang;
+                }
+            } catch (e) {}
             // Check localStorage
             var saved = localStorage.getItem('preferredLanguage');
             if (saved && this.supportedLanguages.indexOf(saved) !== -1) {
@@ -99,6 +106,7 @@
 
         I18n.prototype.updateUI = function() {
             var self = this;
+            document.documentElement.lang = self.currentLang;
             document.querySelectorAll('[data-i18n]').forEach(function(element) {
                 var key = element.getAttribute('data-i18n');
                 var text = self.t(key);
